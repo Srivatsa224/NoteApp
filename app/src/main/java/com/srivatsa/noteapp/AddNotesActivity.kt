@@ -65,8 +65,6 @@ class AddNotesActivity : AppCompatActivity() {
             finish()
 
 
-
-
         }
 
         catch (e:Exception){
